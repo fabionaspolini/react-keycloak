@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Tutorial React + Keycloak](https://rieckpil.de/howto-microprofile-jwt-authentication-with-keycloak-and-react/)
+
 ## Available Scripts
 
 In the project directory, you can run:
